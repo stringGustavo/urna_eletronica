@@ -8,7 +8,7 @@ let etapas = [
                 nome: 'Super Xandão',
                 partido: 'BR',
                 fotos: [
-                    {url:'/src/img/xandao.jpg', legenda: 'Vereador'}
+                    {url:'src/img/xandao.jpg', legenda: 'Vereador'}
                 ]
             },
             {
@@ -16,7 +16,7 @@ let etapas = [
                 nome: 'Seu Madruga',
                 partido: 'CHAVO',
                 fotos:[
-                    {url:'/src/img/madruga.png', legenda: 'Vereador'}
+                    {url:'src/img/madruga.png', legenda: 'Vereador'}
                 ]
             }
         ]
@@ -31,8 +31,8 @@ let etapas = [
                 partido: 'TATA',
                 vice: 'MANOEL GOMES',
                 fotos:[
-                    {url:'/src/img/tata.png', legenda: 'Prefeito'},
-                    {url:'/src/img/mgomes.jpg', legenda: 'Vice-Prefeito', pequeno: true}
+                    {url:'src/img/tata.png', legenda: 'Prefeito'},
+                    {url:'src/img/mgomes.jpg', legenda: 'Vice-Prefeito', pequeno: true}
                 ]
             },
             {
@@ -41,8 +41,8 @@ let etapas = [
                 partido: '1000 GATOS',
                 vice: 'Tião, O Rato',
                 fotos:[
-                    {url:'/src/img/tib.jpg', legenda:'Prefeito'},
-                    {url:'/src/img/rato.jpg', legenda:'Vice-Prefeito', pequeno: true}
+                    {url:'src/img/tib.jpg', legenda:'Prefeito'},
+                    {url:'src/img/rato.jpg', legenda:'Vice-Prefeito', pequeno: true}
                 ]
             }
         ]
